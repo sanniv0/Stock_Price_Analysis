@@ -40,7 +40,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 ### Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
+   git clone https://github.com/sanniv0/stock-price-prediction.git
    cd stock-price-prediction
    ```
 2. Launch Jupyter Notebook:
