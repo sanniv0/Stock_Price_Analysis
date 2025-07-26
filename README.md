@@ -1,13 +1,13 @@
-# Stock Price Prediction with Machine Learning
+# 📉Stock Price Prediction with Machine Learning 📈
 
 Welcome to the **Stock Price Prediction** project! This repository demonstrates how to use machine learning techniques to analyze and predict stock prices, using Tesla's historical stock data as a case study.
 
-## Project Overview
+## 📂Project Overview📂
 
 - **Data Source:** The dataset (`Tesla.csv`) contains historical stock prices for Tesla, Inc., including columns for Date, Open, High, Low, Close, Volume, and Adjusted Close.
 - **Notebook:** The main analysis is performed in `Stock_Price_Prediction.ipynb`, a Jupyter Notebook that walks through data exploration, visualization, preprocessing, and predictive modeling.
 
-## Features
+## 🪶Features 🪶
 
 - 📈 **Data Exploration & Visualization:**
   - Uses `pandas`, `matplotlib`, and `seaborn` to explore and visualize trends in Tesla's stock prices.
